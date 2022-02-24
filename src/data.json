@@ -1,0 +1,46 @@
+[
+	{
+	
+		"id":1,
+		"movie": "Pulp Fiction",
+		"type": "Action & Adventure",
+		"year": "2004",
+		"image": "/Pulp Fiction.png"
+	},
+	{
+		"id":2,
+		"movie": "Bohemian Rhapsody",
+		"type": "Action & Adventure",
+		"year": "2003",
+		"image": "/Bohemian Rhapsody.png" 
+	},
+	{
+		"id":3,
+		"movie": "Kill Bill Vol 2",
+		"type": "Oscar winning Movie",
+		"year": "1994",
+		"image": "/Kill Bill Vol2.png"
+	},
+	{
+	
+		"id":4,
+		"movie": "Avengers War of Infinity",
+		"type": "Action & Adventure",
+		"year": "2004",
+		"image": "/Avengers War of Infinity.png"
+	},
+	{
+		"id":5,
+		"movie": "Inception",
+		"type": "Action & Adventure",
+		"year": "2003",
+		"image": "/Inception.png" 
+	},
+	{
+		"id":6,
+		"movie": "Reservoir dogs",
+		"type": "Oscar winning Movie",
+		"year": "1994",
+		"image": "/Reservoir dogs.png"
+	}
+]
